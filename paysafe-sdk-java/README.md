@@ -1,6 +1,6 @@
 # Paysafe Pay Later Java SDK
 
-The Paysafe Pay Later Java SDK lets you communicate with the [Paysafe Pay Later platform](https://support.paysafe?.com/) and provides the following features:
+The Paysafe Pay Later Java SDK lets you communicate with the [Paysafe Pay Later platform](https://www.paysafe.com/products-overview/paysafe-pay-later-home/developer-center/) and provides the following features:
 
 * Handles authentication in all requests towards the API 
 * Wrapper around all API calls and responses to make building a request and interpreting responses as easy as possible
@@ -12,7 +12,7 @@ The Paysafe Pay Later Java SDK lets you communicate with the [Paysafe Pay Later 
 
 The project contains multiple integration tests that shows how to use the SDK.
 
-For more examples and detailed information on how to use the SDK, you can go to the [Paysafe Pay Later Developer Hub](https://support.paysafe?.com/sdk/java/).
+For more examples and detailed information on how to use the SDK, you can go to the [Paysafe Pay Later Developer Hub](https://www.paysafe.com/products-overview/paysafe-pay-later-home/developer-center/).
 
 ## Installation
 
@@ -24,8 +24,11 @@ When using [Maven](http://maven.apache.org/), include the SDK as a Maven depende
       <version>x.y.z</version>
     </dependency>
 
-If Maven is not a possibility, download the latest version of the SDK from GitHub. Retrieve the `paysafe-sdk-java-x.y.z-bin.zip` file from the [releases](https://github.com/Paysafe?/paysafe-sdk-java/releases) page, where `x.y.z` is the version number.
+If Maven is not a possibility, download the latest version of the SDK from GitHub. Retrieve the `paysafe-sdk-java-x.y.z-bin.zip` file from the [releases](https://github.com/Paysafecard-DEV/ppl-purchase-sdk/releases) page, where `x.y.z` is the version number.
 Add the JAR files inside the `lib` folder to your project, except for `paysafe-sdk-java-x.y.z-sources.jar`
+
+### Requirements
+The Paysafe Pay Later Java SDK requires Java version 8 or higher.
 
 ## Project structure
 

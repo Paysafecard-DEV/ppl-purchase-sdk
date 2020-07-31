@@ -10,7 +10,7 @@
 
     <name>paysafe-sdk-java</name>
     <description>SDK to communicate with the Paysafe Pay Later platform using the Paysafe Pay Later Server API</description>
-    <url>https://github.com/Paysafe?/paysafe?-sdk-java</url>
+    <url>https://github.com/Paysafecard-DEV/ppl-purchase-sdk</url>
 
     <organization>
         <name>Payolution GmbH</name>
@@ -20,7 +20,7 @@
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/Paysafe?/paysafe?-sdk-java/blob/master/LICENSE.txt</url>
+            <url>https://github.com/Paysafecard-DEV/ppl-purchase-sdk/blob/master/paysafe-sdk-java/LICENSE.txt</url>
         </license>
     </licenses>
 
@@ -34,14 +34,14 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:Paysafe?/paylater?-sdk-java.git</connection>
-        <developerConnection>scm:git:git@github.com:Paysafe?/paylater?-sdk-java.git</developerConnection>
-        <url>https://github.com/Paysafe?/Paysafe?-sdk-java</url>
+        <connection>scm:git:git@github.com:Paysafecard-DEV/ppl-purchase-sdk.git</connection>
+        <developerConnection>scm:git:git@github.com:Paysafecard-DEV/ppl-purchase-sdk.git</developerConnection>
+        <url>https://github.com/Paysafecard-DEV/ppl-purchase-sdk.git</url>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/Paysafe?/paysafe?-sdk-java/issues</url>
+        <url>https://github.com/Paysafecard-DEV/ppl-purchase-sdk/issues</url>
     </issueManagement>
 
     <properties>
